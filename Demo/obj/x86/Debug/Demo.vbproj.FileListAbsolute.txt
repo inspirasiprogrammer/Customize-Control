@@ -1,0 +1,13 @@
+c:\users\irwan\documents\visual studio 2010\Projects\MyIrwan.UI.Customize\Demo\bin\Debug\Demo.exe
+c:\users\irwan\documents\visual studio 2010\Projects\MyIrwan.UI.Customize\Demo\bin\Debug\Demo.pdb
+c:\users\irwan\documents\visual studio 2010\Projects\MyIrwan.UI.Customize\Demo\bin\Debug\Demo.xml
+c:\users\irwan\documents\visual studio 2010\Projects\MyIrwan.UI.Customize\Demo\obj\x86\Debug\Demo.Form1.resources
+c:\users\irwan\documents\visual studio 2010\Projects\MyIrwan.UI.Customize\Demo\obj\x86\Debug\Demo.Resources.resources
+c:\users\irwan\documents\visual studio 2010\Projects\MyIrwan.UI.Customize\Demo\obj\x86\Debug\Demo.vbproj.GenerateResource.Cache
+c:\users\irwan\documents\visual studio 2010\Projects\MyIrwan.UI.Customize\Demo\obj\x86\Debug\Demo.exe
+c:\users\irwan\documents\visual studio 2010\Projects\MyIrwan.UI.Customize\Demo\obj\x86\Debug\Demo.xml
+c:\users\irwan\documents\visual studio 2010\Projects\MyIrwan.UI.Customize\Demo\obj\x86\Debug\Demo.pdb
+c:\users\irwan\documents\visual studio 2010\Projects\MyIrwan.UI.Customize\Demo\bin\Debug\MyIrwan.UI.Customize.dll
+c:\users\irwan\documents\visual studio 2010\Projects\MyIrwan.UI.Customize\Demo\bin\Debug\MyIrwan.UI.Customize.pdb
+c:\users\irwan\documents\visual studio 2010\Projects\MyIrwan.UI.Customize\Demo\bin\Debug\MyIrwan.UI.Customize.xml
+c:\users\irwan\documents\visual studio 2010\Projects\MyIrwan.UI.Customize\Demo\obj\x86\Debug\Demo.vbprojResolveAssemblyReference.cache
